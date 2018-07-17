@@ -1,4 +1,4 @@
-# automationquiz
+# Fox Automation Test
 
 
 There is 1 test class and 4 page object classes.
